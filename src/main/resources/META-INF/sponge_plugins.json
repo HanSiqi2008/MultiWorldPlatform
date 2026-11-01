@@ -1,0 +1,24 @@
+{
+  "loader": {
+    "name": "java_plain",
+    "version": "1.0"
+  },
+  "license": "MIT",
+  "global": {
+    "version": "12.1.0",
+    "dependencies": [
+      {
+        "id": "spongeapi",
+        "version": "12.1.0"
+      }
+    ]
+  },
+  "plugins": [
+    {
+      "id": "multiworldplatform",
+      "name": "MultiWorldPlatform",
+      "entrypoint": "org.multiworldplatform.MultiWorldPlatformPlugin",
+      "description": "Create, import, export, load, unload, delete and teleport between independent worlds."
+    }
+  ]
+}
