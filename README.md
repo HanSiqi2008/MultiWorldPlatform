@@ -1,5 +1,7 @@
 # MultiWorldPlatform
 
+**该项目由 AI 生成**
+
 MultiWorldPlatform 是一个仅依赖 SpongeAPI 的世界管理插件，插件 ID 为
 `multiworldplatform`。它不直接引用 NeoForge 或 Forge 类，目标环境为：
 
